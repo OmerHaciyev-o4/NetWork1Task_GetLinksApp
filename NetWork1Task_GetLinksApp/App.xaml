@@ -1,0 +1,9 @@
+﻿<Application x:Class="NetWork1Task_GetLinksApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NetWork1Task_GetLinksApp"
+             StartupUri="MVVM/Views/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
